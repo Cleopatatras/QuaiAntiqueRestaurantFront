@@ -11965,4 +11965,27 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+main {
+  margin-bottom: 250px;
+}
+
+footer.footer {
+  padding: 15px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+p {
+  font-family: "Hind Madurai", serif;
+  font-size: 18px;
+}
+
+.hero-scene {
+  background-image: url(../images/DALL·E\ 2024-06-01\ 10.54.52\ -\ photos\ of\ food.png);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
 }/*# sourceMappingURL=main.css.map */
