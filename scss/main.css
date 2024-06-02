@@ -11987,4 +11987,8 @@ p {
   justify-content: center;
   align-items: center;
   height: 300px;
+}
+
+.text-justify {
+  text-align: justify;
 }/*# sourceMappingURL=main.css.map */
