@@ -11970,10 +11970,9 @@ main {
   margin-bottom: 250px;
 }
 
-footer.footer {
+footer {
   padding: 15px;
   position: absolute;
-  bottom: 0;
   width: 100%;
 }
 
