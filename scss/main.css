@@ -11984,6 +11984,7 @@ p {
   justify-content: center;
   align-items: center;
   height: 300px;
+  margin-bottom: 15px;
 }
 
 .text-justify {
